@@ -7,7 +7,7 @@ The Bank Where Money Meets Trust because Your Money Deserves The Best.
 4. Rohith - Azure AI Services
 5. Sekhar -
 # Project Details
-1. Project Demo URL :
+1. Project Demo URL : [https://github.com/Mohammad-Hussain28/Secure_bank]
 2. Demo Video URL :
 3. Git-Hub Repository URL :
 4. Industry : Finance Sector
