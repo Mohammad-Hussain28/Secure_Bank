@@ -37,7 +37,7 @@
 
 								</ul>
 							</li>
-							<li><a href="contact.html" class="button">Contact Us</a></li>
+							<li><a href="contact.html">Contact Us</a></li>
 						</ul>
 					</nav>
 				</header>
