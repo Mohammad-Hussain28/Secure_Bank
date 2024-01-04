@@ -45,4 +45,5 @@ Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. I
 
 **Azure Blob Storage :**
 
+
 ![Screenshot 2024-01-04 131730](https://github.com/Mohammad-Hussain28/Secure_bank/assets/151023205/d693d00f-a3bc-4d56-bcdc-48d8003b38ae)
