@@ -77,3 +77,7 @@ Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. I
 **Business Loan**
 
 ![Web capture_4-1-2024_16220_securebank0 z7 web core windows net](https://github.com/Mohammad-Hussain28/Secure_bank/assets/154821764/0000b21c-6fb5-4274-8e44-eea2e84281ad)
+
+# Resource Visualizer
+
+# Final Project Statement
