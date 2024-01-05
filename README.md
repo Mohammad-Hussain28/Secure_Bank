@@ -12,9 +12,12 @@ The Bank Where Money Meets Trust because Your Money Deserves The Best.
 3. Git-Hub Repository URL : [https://github.com/Mohammad-Hussain28/Secure_bank]
 4. Industry : Finance Sector
 # Azure Services
-1. Azure Blob Storage
-2. Storage Account
+1. Storage Account
+2. Azure Blob Storage
 3. Azure Backup Service
+# Azure AI Services
+1. Language Sevice
+2. Azure Bot Service
 # Technologies Used
 1. HTML5
 2. CSS3
