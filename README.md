@@ -5,7 +5,6 @@ The Bank Where Money Meets Trust because Your Money Deserves The Best.
 2. Rakesh - Content Collection
 3. Bhargavi - Front-end and logo design 
 4. Rohith - Azure AI Services
-5. Sekhar - Azure AI Service
 # Project Details
 1. Project Demo URL : 
 2. Demo Video URL :
